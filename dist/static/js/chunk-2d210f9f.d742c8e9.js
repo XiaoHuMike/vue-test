@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d210f9f"],{b9d6:function(e,n,t){"use strict";t.r(n);var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" sku管理 ")])},c=[],s={name:"Sku"},a=s,r=t("2877"),i=Object(r["a"])(a,u,c,!1,null,"08e00783",null);n["default"]=i.exports}}]);
